@@ -1,0 +1,16 @@
+D:\work\Visual Studio\DA_Winform\bin\Debug\DA_Winform.exe.config
+D:\work\Visual Studio\DA_Winform\bin\Debug\DA_Winform.exe
+D:\work\Visual Studio\DA_Winform\bin\Debug\DA_Winform.pdb
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.csproj.AssemblyReference.cache
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.csproj.SuggestedBindingRedirects.cache
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.frmBanHang.resources
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.frmHoaDon.resources
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.frmLoaiSP.resources
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.frmSanPham.resources
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.MainForm.resources
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.frmQLNhanVien.resources
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.Properties.Resources.resources
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.csproj.GenerateResource.cache
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.csproj.CoreCompileInputs.cache
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.exe
+D:\work\Visual Studio\DA_Winform\obj\Debug\DA_Winform.pdb
